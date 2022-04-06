@@ -14,7 +14,7 @@ while True:
     print("5 - по фамилии выводит номер телефона и номер комнаты")
     k = int(input())
     if k == 1:
-        pass
+        print(1)
     elif k == 2:
         pass
     elif k == 3:
